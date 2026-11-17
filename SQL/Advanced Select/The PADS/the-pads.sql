@@ -1,13 +1,12 @@
---First Query
 SELECT 
     CONCAT(Name,'(',LEFT(Occupation,1),')') AS Name
 FROM
     OCCUPATIONS
 ORDER BY
     Name ASC
-);
+;
 
---Second Query
+
 SELECT  
     CONCAT('There are a total of ',count(*),' ',LOWER(Occupation),'s.')
 FROM    
