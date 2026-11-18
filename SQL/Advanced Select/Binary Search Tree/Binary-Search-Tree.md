@@ -43,5 +43,5 @@ Write a query to find the node type of Binary Tree ordered by the value of the n
 9 Leaf
  ``` 
 
- 
- ![Binary Tree] (binarytree.png)
+
+ ![Binary Tree](binarytree.png)
