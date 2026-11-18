@@ -1,12 +1,6 @@
 # The PADS
 
-**Platform:** HackerRank\
-**Difficulty:** Medium\
-**Maximum Score:** 30\
-**Topic:** SQL
-
-[Original
-Problem](https://www.hackerrank.com/challenges/the-pads/problem)
+[Original Problem](https://www.hackerrank.com/challenges/the-pads/problem)
 
 ## Problem Description
 
