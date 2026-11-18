@@ -36,9 +36,11 @@ Occupation will only contain one of the following values: Doctor, Professor, Sin
 
 Sample Output
 
-Jenny    Ashley     Meera  Jane
-Samantha Christeen  Priya  Julia
-NULL     Ketty      NULL   Maria
+| Doctor | Professor | Singer | Actor |
+|--------|-----------|--------|-------|
+| Jenny | Ashley | Meera | Jane |
+| Samantha | Christeen | Priya | Julia |
+| NULL | Ketty | NULL | Maria |
 
 **Explanation**
 
